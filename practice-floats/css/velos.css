@@ -1,0 +1,10 @@
+img{
+  width: 40%;
+  float: right;
+  border: 3px solid gold;
+}
+.sidebar{
+  width: 30%;
+  background-color: darksalmon;
+  float: left;
+}
